@@ -1,4 +1,4 @@
-var button = document.querySelector('.btn'),
+    var button = document.querySelector('.btn'),
     num = document.getElementById('num').value,
     textarea = document.querySelector('textarea');
     
